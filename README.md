@@ -3,19 +3,20 @@
 - 🔭 I’m working on Backend
 - 📚 I’m learning Java ☕
 
-<div align="center">
+<div align="center" dir="auto">
   <a href="https://github.com/gaanasc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaanasc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaanasc&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block" dir="auto"><br>
   <img align="center" alt="gabriel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="gabriel-Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
   <img align="center" alt="gabriel-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="gabriel-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   <img align="center" alt="gabriel-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    
 </div>
 
   ###
