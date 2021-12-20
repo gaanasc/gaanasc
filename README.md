@@ -1,5 +1,6 @@
-### Hello there, my name is Gabriel Nascimento, at the moment
+### Hello there, my name is Gabriel Nascimento
 
+At the moment:
 - 🔭 I’m working on Backend
 - 📚 I’m learning Java ☕
 
