@@ -1,7 +1,7 @@
-### Hello there, my name is Gabriel Nascimento
+### Hello there, my name is Gabriel Nascimento, at the moment
 
-- 🔭 I’m currently working on Backend
-- 📚 I’m currently learning Java ☕
+- 🔭 I’m working on Backend
+- 📚 I’m learning Java ☕
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
