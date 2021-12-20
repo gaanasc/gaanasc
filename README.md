@@ -1,4 +1,5 @@
 ### Hello there, my name is Gabriel Nascimento
+<h2 dir="auto"> </h2>
 
 At the moment:
 - 🔭 I’m working on Backend
@@ -17,11 +18,11 @@ At the moment:
   <img align="center" alt="gabriel-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="gabriel-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   <img align="center" alt="gabriel-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    
+  
 </div>
 
-  ###
-  ###
+<h2 dir="auto"> </h2>
+ 
 <div> 
   <a href="https://instagram.com/gaanasc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabriel.rocha1301@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
