@@ -1,4 +1,4 @@
-### Hello, i'm Gabriel Nascimento
+### Hello there, my name is Gabriel Nascimento
 
 
 **gaanasc/gaanasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
