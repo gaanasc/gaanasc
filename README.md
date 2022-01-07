@@ -1,4 +1,4 @@
-### Hello there, my name is Gabriel Nascimento
+### Hello there, my name is Gabriel
 <h2 dir="auto"> </h2>
 
 At the moment:
