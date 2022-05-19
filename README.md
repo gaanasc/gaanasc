@@ -8,8 +8,9 @@
  -->
 ### Technologies and Frameworks
 
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git&color=0D1117&style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=FF0000&color=0D1117&style=flat-square)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&color=0D1117&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git&color=0D1117&style=flat-square)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring&color=0D1117&style=flat-square)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&color=0D1117&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&color=0D1117&style=flat-square)
