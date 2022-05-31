@@ -1,11 +1,14 @@
-### Hello there, my name is Gabriel
-<h2 dir="auto"> </h2>
+### Hello :man_astronaut:
+<!-- <h2 dir="auto"> </h2> -->
+<!-- - 🔭 I’m currently working on Project Firewatch <br> -->
+<!-- - 🌱 I’m currently learning Kotlin and Java -->
 
-<!-- 
+
+
 ### Currently Studying 
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter&logoColor=007396&color=0D1117&style=flat-square)
-![Spring Native](https://img.shields.io/badge/-Spring_Native-000?&logo=Spring&color=0D1117&style=flat-square)
- -->
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=FF0000&color=0D1117&style=flat-square)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&color=0D1117&style=flat-square)
+
 ### Technologies and Frameworks
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=FF0000&color=0D1117&style=flat-square)
