@@ -3,12 +3,6 @@
 <!-- - 🔭 I’m currently working on Project Firewatch <br> -->
 <!-- - 🌱 I’m currently learning Kotlin and Java -->
 
-
-
-### Currently Studying 
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=FF0000&color=0D1117&style=flat-square)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&color=0D1117&style=flat-square)
-
 ### Technologies and Frameworks
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=FF0000&color=0D1117&style=flat-square)
